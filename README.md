@@ -5,12 +5,6 @@ This project focuses on clean UI, responsive layout, and semantic HTML structure
 
 ---
 
-## 🚀 Live Demo
-👉 *(Add your GitHub Pages link here once hosted)*  
-Example: `https://your-username.github.io/netflix-clone/`
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic and accessible markup  
